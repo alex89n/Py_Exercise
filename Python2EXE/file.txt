@@ -1,0 +1,9 @@
+Panel SN: 2222
+Test started at 2016-09-16 09:13:06
+DUT_ID 1
+
+RSSI:-51 LQI:84 DATA:0100
+                         RSSI:-51 LQI:84 DATA:02FFFFFFFFFFFFFFFF01040201
+                                                                        RSSI:-51 LQI:84 DATA:03F0FFFF
+                     RSSI:-51 LQI:84 DATA:047354
+                                                RSSI:-57 LQI:67 DATA:05C2E9
